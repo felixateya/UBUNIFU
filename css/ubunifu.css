@@ -316,9 +316,9 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 23%;
+  width: 30%;
   margin-top: 11%;
-  margin-left: 10%;
+  margin-left:5%;
 }
 .karibu h2 {
   margin-bottom: 35px;
@@ -359,12 +359,12 @@
   width: 270px;
 }
 .color {
-  width: 33%;
-  height: 90%;
+  width: 36%;
+  height: 97%;
   display: flex;
   flex-direction: column;
   margin-left: 40px;
-  margin-top: 40px;
+  margin-top: 7%;
 }
 
 .grad {
@@ -378,6 +378,10 @@
   height: 90%;
   border-radius: 8px;
   text-align: center;
+}
+
+.grad img {
+  margin-bottom: 25px;
 }
 
 .grad h5 {
@@ -397,10 +401,10 @@
   text-align: center;
   font-size: 14px;
   font-weight: 400;
-  width: 182px;
+  width: 196px;
   height: 144px;
   margin-top: 20px;
-  padding: 10px;
+  /* padding: 10px; */
   line-height: 24px;
 }
 
@@ -445,7 +449,7 @@
 
 .left {
   width: 33%;
-  height: 90%;
+  height: 96%;
   display: flex;
   flex-direction: column;
   margin-top: 40px;
@@ -1340,7 +1344,7 @@
 .logs img {
   width: 170px;
   outline: none;
-  background: none;
+  /* background: none; */
 }
 /* SECTION NEWS */
 
